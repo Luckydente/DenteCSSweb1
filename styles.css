@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+}
+
+div {
+background-color: mintcream;
+border-style: solid;
+border-color: black;
+border-radius: 5px;
+
+}
+
+.smalltext {
+    text-align: center;
+    text-shadow:rgb(248, 182, 245) 2px 2px
+}
+
+.largetext{
+text-align: center;
+    color: blueviolet;
+}
+
+#imaged{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    border-style: solid;
+border-color: rgb(140, 0, 255);
+border-radius: 5px;
+}
+
+.Contact { text-shadow: 20px black;
+ 
+color: crimson;
+
+}   
+
+#link{
+    color: red;
+    font-size: 200;
+    text-align: center;
+}
